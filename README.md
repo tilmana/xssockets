@@ -1,5 +1,5 @@
 # xssockets
-XSSockets is a real-time WebSockets-based C2 server that can implant via an XSS payload.
+XSSockets is a real-time WebSockets-based C2 server that can implant as an XSS payload.
 
 Example of a real-time JavaScript alert payload execution on the victim browser.
 ![Real time alert](https://user-images.githubusercontent.com/59236083/227416249-4f18450b-86cc-4d36-b90e-740da46df480.png)
