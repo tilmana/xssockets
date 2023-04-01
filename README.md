@@ -9,3 +9,6 @@ Example WebSockets log of victim browser after executing pre-built command "dump
 
 Client response being sent to the listener.
 ![dumpcookies output](https://user-images.githubusercontent.com/59236083/227416263-fca8c6ae-6d49-4896-92f6-2e7427941d98.png)
+
+Live Demonstration
+https://user-images.githubusercontent.com/59236083/229294646-662243f1-2ee4-458f-beac-0aa0d33ae878.mp4
